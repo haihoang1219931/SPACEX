@@ -108,7 +108,7 @@ Item {
                 ctx.stroke()
                 ctx.beginPath()
                 ctx.arc(x, y, (width / 2) - parent.lineWidth / 2, start, start+(value/valueMax)*(end-start), false)
-                ctx.strokeStyle = "lightgray"
+                ctx.strokeStyle = "#66FFFFFF"
                 ctx.stroke()
             }
         }

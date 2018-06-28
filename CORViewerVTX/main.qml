@@ -88,7 +88,6 @@ ApplicationWindow {
                 altitude = altitudeMax
                 dAltitude = Math.abs(dAltitude);
             }
-
             timeProgress.updateData(time,speed,altitude);
         }
     }
