@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ProgressCircle.qml</file>
+        <file>GUI/background/digitalmap.jpg</file>
+        <file>FlyingProgress.qml</file>
+        <file>TimeProgress.qml</file>
+        <file>GUI/logo/VTX_logo.png</file>
+        <file>JS/stringFormat.js</file>
+    </qresource>
+</RCC>
